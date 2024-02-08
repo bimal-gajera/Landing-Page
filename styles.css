@@ -1,0 +1,44 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1F2937;
+  align-items: center;
+  font-family: roboto;
+}
+
+.header-logo {
+  color: white;
+  font-size: 24px;
+  margin: 10px 60px;
+}
+
+.header-links {
+  display: flex;
+  font-size: 18px;
+  color: #E5E7EB;
+  margin: 10px 60px;
+}
+
+.header-links .text {
+  padding: 10px 20px;
+}
+
+.section-1 img {
+  width: 500px;
+  height: auto;
+}
+
+
+.section-2 img {
+  width: 300px;
+  height: auto;
+}
+
+ul {
+  list-style-type: none;
+}
